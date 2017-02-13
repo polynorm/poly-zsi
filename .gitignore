@@ -1,0 +1,3 @@
+*.pyc
+ZSI.egg-info/
+build/
